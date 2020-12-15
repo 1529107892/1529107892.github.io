@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>星空下的小虾米</title>
+  <title>星空之下</title>
   
-  <subtitle>星空下的小虾米</subtitle>
+  <subtitle>星空之下</subtitle>
   <link href="https://www.liangweiwen.com/atom.xml" rel="self"/>
   
   <link href="https://www.liangweiwen.com/"/>
@@ -10,7 +10,7 @@
   <id>https://www.liangweiwen.com/</id>
   
   <author>
-    <name>星空下的小虾米</name>
+    <name>星空之下</name>
     
   </author>
   
