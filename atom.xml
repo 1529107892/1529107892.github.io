@@ -6,7 +6,7 @@
   <link href="https://liangeweiwen.com/atom.xml" rel="self"/>
   
   <link href="https://liangeweiwen.com/"/>
-  <updated>2020-12-15T11:03:23.769Z</updated>
+  <updated>2020-12-17T08:09:53.652Z</updated>
   <id>https://liangeweiwen.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Marekdown 语法说明（转载）</title>
+    <link href="https://liangeweiwen.com/2020/12/17/markdown-yu-fa-shuo-ming-zhuan-zai/"/>
+    <id>https://liangeweiwen.com/2020/12/17/markdown-yu-fa-shuo-ming-zhuan-zai/</id>
+    <published>2020-12-17T08:08:15.000Z</published>
+    <updated>2020-12-17T08:09:53.652Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&amp;lt;&amp;lt; &lt;a href=&quot;http://wowubuntu.com/&quot;&gt;访问 Wow!Ubuntu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; This is Simplelified  Chinese Edition Document</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
