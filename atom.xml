@@ -39,6 +39,31 @@
   </entry>
   
   <entry>
+    <title>Hexo部署到gitee遇到的问题</title>
+    <link href="https://liangeweiwen.com/2020/12/17/hexo-bu-shu-dao-gitee-yu-dao-de-wen-ti/"/>
+    <id>https://liangeweiwen.com/2020/12/17/hexo-bu-shu-dao-gitee-yu-dao-de-wen-ti/</id>
+    <published>2020-12-17T07:59:20.000Z</published>
+    <updated>2020-12-17T09:12:56.569Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;问题（1）&quot;&gt;&lt;a href=&quot;#问题（1）&quot; class=&quot;headerlink&quot; title=&quot;问题（1）&quot;&gt;&lt;/a&gt;问题（1）&lt;/h3&gt;&lt;p&gt;Hexo部署到gitee page后二级页面出现样式没加载，通过浏览器按 F12</summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="https://liangeweiwen.com/tags/hexo/"/>
+    
+    <category term="gitee" scheme="https://liangeweiwen.com/tags/gitee/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://liangeweiwen.com/2020/12/15/hello-world/"/>
     <id>https://liangeweiwen.com/2020/12/15/hello-world/</id>

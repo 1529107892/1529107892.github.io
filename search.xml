@@ -17,6 +17,27 @@
     
     
     <entry>
+      <title>Hexo部署到gitee遇到的问题</title>
+      <link href="2020/12/17/hexo-bu-shu-dao-gitee-yu-dao-de-wen-ti/"/>
+      <url>2020/12/17/hexo-bu-shu-dao-gitee-yu-dao-de-wen-ti/</url>
+      
+        <content type="html"><![CDATA[<h3 id="问题（1）"><a href="#问题（1）" class="headerlink" title="问题（1）"></a>问题（1）</h3><p>Hexo部署到gitee page后二级页面出现样式没加载，通过浏览器按 F12 发现ccs、js文件找不到，出现404.</p><p>问题解决方法：</p><p><img src="https://gitee.com/lwwgitee/blogimges/raw/master/img/%E9%97%AE%E9%A2%981.png" alt="问题1"></p><p>两个红框处的名称改为相同。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> gitee </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="2020/12/15/hello-world/"/>
       <url>2020/12/15/hello-world/</url>
